@@ -1,7 +1,7 @@
 ## Oi eu sou Wandrel Alves, estudante e desenvolvedor!
 
 - 🐱‍💻Cursando Sistemas da informação
-- 🤓 Estudando sobre python, Dev web e mobile
+- 🤓 Estudando sobre python, Dev mobile
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
